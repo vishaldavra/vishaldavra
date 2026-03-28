@@ -1,4 +1,4 @@
-# <p align="center">👋 Hello, I'm Vishal (VD) </p>
+# <p align="center">👋 Hello, I'm Vishal Davara </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header&text=Full-Stack%20Architect%20&%20AI%20Developer&fontSize=35&animation=fadeIn" width="100%"/>
 </p>
