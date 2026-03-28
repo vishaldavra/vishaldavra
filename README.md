@@ -1,9 +1,16 @@
 # <p align="center">👋 Hello, I'm Vishal Davara </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header&text=Full-Stack%20Architect%20&%20AI%20Developer&fontSize=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header" width="100%"/>
 </p>
 
-## 🚀 About Me
+## <p align="center">🚀 Full-Stack Architect & AI Developer</p>
+<p align="center">
+  <i>Building Digital Ecosystems with Precision and Passion</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
 I am a **36-year-old Developer & Entrepreneur** from Surat, Gujarat. I specialize in building high-performance applications and exploring the boundaries of AI.
 
 - 🏗️ **Founder @ Aquabit**: Crafting premium software solutions.
@@ -14,7 +21,7 @@ I am a **36-year-old Developer & Entrepreneur** from Surat, Gujarat. I specializ
 
 ---
 
-## 📊 My GitHub Ecosystem (Interactive Stats)
+## 📊 My GitHub Ecosystem
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishaldavra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldavra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
@@ -41,7 +48,7 @@ I am a **36-year-old Developer & Entrepreneur** from Surat, Gujarat. I specializ
 <br/>
 
 ### 📬 Let's Connect
-- 📧 **Email**: vishaldavra10@gmail.com
+- 📧 **Email**: [vishaldavra10@gmail.com](mailto:vishaldavra10@gmail.com)
 - 🏢 **Company**: Aquabit Software
 - 📍 **Location**: Surat, Gujarat, India
 
