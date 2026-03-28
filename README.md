@@ -1,54 +1,52 @@
-# Hi there, I'm Vishal 👋 (aka VD)
-### Architecting Digital Ecosystems | AI Enthusiast | Full-Stack Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishaldavra&label=Profile%20Views&color=0e76a8&style=flat" alt="vishaldavra" />
+# <p align="center">👋 Hello, I'm Vishal (VD) </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=120&section=header&text=Full-Stack%20Architect%20&%20AI%20Developer&fontSize=35&animation=fadeIn" width="100%"/>
 </p>
-
----
 
 ## 🚀 About Me
-I am a developer and entrepreneur from **Surat, India**, dedicated to building scalable digital solutions. From real-time auction platforms to custom AI models, I focus on creating seamless UI/UX and robust backend architectures.
+I am a **36-year-old Developer & Entrepreneur** from Surat, Gujarat. I specialize in building high-performance applications and exploring the boundaries of AI.
 
-- 🛠️ **Founder @ Aquabit**: Crafting cutting-edge software solutions.
-- 🏏 **Currently Building**: [CrickBoss] - A real-time cricket auction experience.
-- 🤖 **AI Projects**: Developing **Shunyark** & **Antigravity** (Custom AI implementations).
-- 🛍️ **E-commerce**: Driving brands like **Gllsoxa** and **Trends Store**.
-- 🇮🇳 **BharatCalc**: Simplifying calculations for the Indian ecosystem.
-
----
-
-## 🛠 Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Flutter |
-| **Backend** | Node.js, Express, Python |
-| **Database** | MongoDB, PostgreSQL, Redis |
-| **DevOps** | Ubuntu 24.04, Ryzen Dedicated Servers, Docker |
-| **Design** | Figma (UI/UX), Adobe Illustrator |
+- 🏗️ **Founder @ Aquabit**: Crafting premium software solutions.
+- 🏏 **Current Focus**: [CrickBoss] - Advanced Cricket Auction Platform.
+- 🤖 **AI Research**: Developing **Shunyark** & **Antigravity**.
+- 🛠️ **Infrastructure**: Managing servers on **Ryzen 7 / Ubuntu 24.04**.
+- 💼 **E-commerce**: Owner of **Trends Store** & **Ashyam Enterprise**.
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Ecosystem (Interactive Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaldavra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldavra&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaldavra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaldavra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldavra&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldavra&theme=tokyonight&hide_border=true&background=0D1117" width="94%" />
 </p>
 
 ---
 
-## 📬 Connect with Me
-- 📧 **Email**: [vishaldavra10@gmail.com](mailto:vishaldavra10@gmail.com)
+## 🛠 Mastering These Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,python,flutter,figma,docker,aws,ubuntu,git,github,vscode,tailwind&perline=8" />
+</p>
+
+---
+
+## 📈 Activity & Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishaldavra&theme=tokyonight" width="94%" />
+</p>
+
+<br/>
+
+### 📬 Let's Connect
+- 📧 **Email**: vishaldavra10@gmail.com
 - 🏢 **Company**: Aquabit Software
 - 📍 **Location**: Surat, Gujarat, India
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%"/>
 </p>
