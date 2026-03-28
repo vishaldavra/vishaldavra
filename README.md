@@ -10,7 +10,7 @@ I am a **36-year-old Developer & Entrepreneur** from Surat, Gujarat. I specializ
 - 🏏 **Current Focus**: [CrickBoss] - Advanced Cricket Auction Platform.
 - 🤖 **AI Research**: Developing **Shunyark** & **Antigravity**.
 - 🛠️ **Infrastructure**: Managing servers on **Ryzen 7 / Ubuntu 24.04**.
-- 💼 **E-commerce**: Owner of **Trends Store** & **Ashyam Enterprise**.
+- 💼 **E-commerce**: Owner of **Aquabit** & **Gamers Aim**.
 
 ---
 
